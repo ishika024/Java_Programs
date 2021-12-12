@@ -1,5 +1,5 @@
 /*
-	IMPLEMENT CALULATOR USING FRAME 
+	IMPLEMENTING CALULATOR USING FRAME 
 */
 import java.awt.*;
 import java.awt.event.*;
